@@ -1,0 +1,16 @@
+﻿  VertexArray.cpp
+C:\Dev\OpenGLImple\OpenGLImple\src\VertexArray.cpp(6,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\VertexArray.cpp(11,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\VertexArray.cpp(16,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\VertexArray.cpp(21,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\VertexArray.cpp(32,9): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\VertexArray.cpp(33,9): warning C4551: function call missing argument list
+  main.cpp
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(161,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(178,9): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(180,9): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(181,9): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(182,9): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(184,9): warning C4551: function call missing argument list
+  Generating Code...
+  OpenGLImple.vcxproj -> C:\Dev\OpenGLImple\bin\Win32\Debug\OpenGLImple.exe

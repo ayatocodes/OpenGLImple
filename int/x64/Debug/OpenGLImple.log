@@ -1,0 +1,25 @@
+﻿  Shader.cpp
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(11,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(14,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(19,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(24,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(29,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(34,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(80,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(82,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(83,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(85,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(86,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(87,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(88,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(90,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(91,5): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\Shader.cpp(98,5): warning C4551: function call missing argument list
+  main.cpp
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(113,9): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(115,9): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(116,9): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(117,9): warning C4551: function call missing argument list
+C:\Dev\OpenGLImple\OpenGLImple\src\main.cpp(119,9): warning C4551: function call missing argument list
+  Generating Code...
+  OpenGLImple.vcxproj -> C:\Dev\OpenGLImple\bin\x64\Debug\OpenGLImple.exe
